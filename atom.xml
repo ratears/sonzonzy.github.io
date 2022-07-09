@@ -175,9 +175,9 @@
     <category term="mysql" scheme="https://sonzonzy.github.io/categories/database/mysql/"/>
     
     
-    <category term="database" scheme="https://sonzonzy.github.io/tags/database/"/>
-    
     <category term="mysql" scheme="https://sonzonzy.github.io/tags/mysql/"/>
+    
+    <category term="database" scheme="https://sonzonzy.github.io/tags/database/"/>
     
   </entry>
   
